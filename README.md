@@ -31,7 +31,7 @@ User Interface -  Fully functional GUI built with Python's Tkinter library, clea
 4. Save and Retrieve Data: Data is saved to external files to ensure persistence between sessions.
 
 
-<br> This project showcases:
+<br> Overview:
 
 Software Design - Separation of concerns between the Application/ system, data management, and file storage.
 

@@ -4,7 +4,7 @@
 // Warning: Viewing allowed; changes, distribution, or use need author’s permission // 
 
 
-<br> Hospital-Management-System
+<br> Hospital Management System
 
 Project Hospital Management System Overview The Hospital Management System is a Python-based application designed to simplify the management of patient records, staff schedules, and hospital resources. Featuring a fully functional Graphical User Interface, this system provides an intuitive and user-friendly experience for end-users, streamlining day-to-day operations in a healthcare environment.
 
